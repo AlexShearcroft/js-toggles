@@ -8,6 +8,6 @@ Was looking for a quick and reusable function process using prototypes to use th
 <div id="js-example">Hello World</div>
 ```
 
-* Please note that jQuery needs to be running for this to work correctly.
+**Please note that jQuery needs to be running for this to work correctly.**
 
-[Working example] (https://jsbin.com/tawaselehu/2/edit?html,js,output)
+[Working example](https://jsbin.com/tawaselehu/2/edit?html,js,output)
