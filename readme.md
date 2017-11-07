@@ -4,6 +4,10 @@ Was looking for a quick and reusable function process using prototypes to use th
 
 ##### Example of usage
 ```
-<a href="#" data-toggle="example" class="js-toggle">Toggle this</a>
-<div id="js-example">Toggle Area</div>
+<button data-toggle="example" class="js-toggle">Toggle this</button>
+<div id="js-example">Hello World</div>
 ```
+
+* Please note that jQuery needs to be running for this to work correctly.
+
+[Working example] (https://jsbin.com/tawaselehu/2/edit?html,js,output)
