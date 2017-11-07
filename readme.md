@@ -7,5 +7,3 @@ Was looking for a quick and reusable function process using prototypes to use th
 <a href="#" data-toggle="example" class="js-toggle">Toggle this</a>
 <div id="js-example">Toggle Area</div>
 ```
-<a href="#" data-toggle="example" class="js-toggle">Toggle this</a>
-<div id="js-example">Toggle Area</div>
