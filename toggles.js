@@ -9,7 +9,7 @@ function Toggles () {
  * Toggles a div area up and down
  * @param {object} element
  */
-Toggles.prototype.toggle = function (element) {
+Toggles.prototype.normToggle = function (element) {
 
     var area = element.attr(this.toggleArea);
 
@@ -28,3 +28,13 @@ Toggles.prototype.slideToggle = function (element) {
 }
 
 Tog = new Toggles();
+
+/* Click Event */
+$('.js-toggle').on('click', function(e) {
+    var element = $(e.target);
+
+    Tog.normToggle(element);
+
+    e.preventDefault();
+
+});

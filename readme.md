@@ -4,6 +4,8 @@ Was looking for a quick and reusable function process using prototypes to use th
 
 ##### Example of usage
 ```
-<a href="#" data-toggle="example">Toggle this</a>
+<a href="#" data-toggle="example" class="js-toggle">Toggle this</a>
 <div id="js-example">Toggle Area</div>
 ```
+<a href="#" data-toggle="example" class="js-toggle">Toggle this</a>
+<div id="js-example">Toggle Area</div>
